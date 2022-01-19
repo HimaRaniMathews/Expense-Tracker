@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Expense-Tracker
+Expense Tracker - Made using HTML,CSS, JS and REACTJS. 
+
+Done with the help of course React - **The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller**
+>>>>>>> 9469b1a13812cc38c390a6b0e4d3055289d1b3b3
